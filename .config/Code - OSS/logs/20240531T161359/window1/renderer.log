@@ -1,0 +1,3 @@
+2024-05-31 16:14:02.208 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/xndr/--ozone-platform-hint=wayland","scheme":"file"},"type":1,"exists":false},{"fileUri":{"$mid":1,"path":"/home/xndr/--disable-gpu","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2024-05-31 16:14:02.491 [info] Started local extension host with pid 209638.
+2024-05-31 16:14:05.417 [info] [perf] Render performance baseline is 19ms
